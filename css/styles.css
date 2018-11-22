@@ -1,0 +1,81 @@
+form {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    
+} 
+form {
+    border-color: purple
+}
+form {
+    border-style: dashed;
+    border-width: 3px;
+    background: white;
+    color: black;
+    padding-top: 40px; padding-bottom: 40px;
+    padding-left: 30px; padding-right: 30px;
+    border-radius: 10px;
+}
+
+/** BASE STYL **/
+section {
+    padding-top: 40px; padding-bottom: 40px;
+}
+
+#header {
+    background-image: url(../img/header.jpg);
+    background-color: #000;
+    padding-top: 160px;
+    min-height: 700px;
+     color: #fff;
+  }
+   #header p {
+    font-size: 2em;
+  }
+   aside form {
+    color: black;
+    background: white;
+    border-radius: 10px;
+    padding: 40px 30px;
+  }
+   aside form button {
+    margin-top: 10px;
+  }
+   
+  #students,
+  #volunteers {
+    min-height: 400px;
+  }
+   #students p,
+  #volunteers p {
+    padding-top: 100px;
+  }
+   #students p {
+    color: white;
+  }
+   #students img,
+  #volunteers img {
+    border-radius: 5px;
+  }
+   
+   .team-member {
+    text-align: center;
+  }
+  .team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+  }
+   .team-member h6 {
+    color: #0475ba;
+  }
+  
+   footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+
+
+  
